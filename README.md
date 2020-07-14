@@ -11,3 +11,5 @@ My name is Chris Jakuc. I am a graduate of the University of North Carolina at C
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:  Outside of my career, I enjoy watching and playing soccer, cooking, traveling, lifting weights, and playing with my dog Pasha.
 
+Here is a picture of me and Pasha!
+![Pasha](img/Pasha.jpeg)
